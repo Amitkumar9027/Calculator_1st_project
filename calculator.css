@@ -1,0 +1,30 @@
+#fullCalc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+background-color: black;
+height: 320px;
+width: 260px;
+border-radius: 20px;
+}
+#input1{
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: rgb(164, 221, 164);
+    font-size: 30px;
+}
+.button{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    background-color:gray;
+    color:white;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#row1{
+    margin-top: 15px;
+}
